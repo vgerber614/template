@@ -11,7 +11,7 @@ labels:
 ---
 
 ## First impressions
-Last week I was introduced to JavaScript with just Java, c++, and Python under my belt of programming languages. Learning just the basics, my first impression was "wow, this is almost just like Java" (more so than python or c++ at least). Thus, I found it really easy to pick up on and learn the basics. 
+Last week I was introduced to JavaScript with just Java, C++, and Python under my belt of programming languages. Learning just the basics, my first impression was "wow, this is almost just like Java" (more so than Python or C++ at least). Thus, I found it really easy to pick up on and learn the basics. 
 
 ## JavaScript is easier and more intutitive
 Overall, I think JavaScript brings up a great deal of strengths as a programming language. I learned that the language is based off more abstract ideas of computation compared to other languages like C++ and Java. This is why JavaScript is simpler and more intutive. Despite its abstraction, JavaScript is powerful enough to perform big and complex tasks important. It is the largest and fastest growing language by far due to its applicability in just about every area of computer science. Thus, it is essential to furthering a career in the field. 
