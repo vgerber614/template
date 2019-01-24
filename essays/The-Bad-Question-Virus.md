@@ -22,7 +22,7 @@ A good question is one that is detailed yet to the point. All the information ne
 
 ## Asking On StackOverflow
 
-<img class="ui medium center image" src="../images/stackoverflow_comic.png">
+<img class="ui large center image" src="../images/stackoverflow_comic.png">
 
 <img align="left" width="100" height="100" src="../images/stackoverflow_icon.png">
 
