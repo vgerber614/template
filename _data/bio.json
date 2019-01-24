@@ -6,7 +6,7 @@
     "email": "vgerber@hawaii.edu",
     "phone": "",
     "website": "https://vgerber614.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
+    "summary": "I am majoring in Computer Science (BS) and Geography (BA) as a student currently studying at the University of Hawaii at Manoa. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -25,21 +25,26 @@
         "username": "vanessagerber",
         "url": "http://linkedin.com/in/vanessagerber"
       }
+      {
+        "network": "email",
+        "username": "vgerber@hawaii.edu",
+        "url": "vgerber@hawaii.edu"
+      }
     ]
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Geographic Information System",
       "keywords": [
       ]
     }
@@ -53,19 +58,27 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Expert",
       "keywords": [
         "MacOS",
+        "Windows 10"
+        
+      "level": "Intermediate",
+      "keywords": [
+        "Ubuntu",
+        "Git/GitHub",
+        "Eclipse",
+        "Canopy"
+        
+      "level": "Novice",
+      "keywords": [
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
       ]
     }
   ],
