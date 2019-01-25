@@ -57,21 +57,17 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "Java",
         "C",
         "C++",
-      ],
-      "level": "Novice",
-      "keywords": [
-        "Javascript",
         "Python",
-      ]
-    },
+        "Javascript"
+      ],
     {
       "name": "Toolsets/OS",
-      "level": "Expert",
+      "level": "",
       "keywords": [
         "MacOS",
         "Windows 10",
@@ -87,6 +83,11 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS Intros I and II (Java)",
+        "Scripting for C/C++",
+        "Algorithms",
+        "Discrete Mathematics",
+        "Software Engineering (Current)"
       ]
     }
   ],
