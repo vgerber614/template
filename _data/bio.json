@@ -64,6 +64,13 @@
         "C++",
       ]
     },
+      {
+      "level": "Novice",
+      "keywords": [
+        "Javascript",
+        "Python",
+      ]
+    },
     {
       "name": "Toolsets/OS",
       "level": "Expert",
