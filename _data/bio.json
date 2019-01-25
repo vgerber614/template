@@ -6,7 +6,7 @@
     "email": "vgerber@hawaii.edu",
     "phone": "",
     "website": "https://vgerber614.github.io",
-    "summary": "I am majoring in Computer Science (BS) and Geography (BA) as a student currently studying at the University of Hawaii at Manoa. I expect to graduate in Fall, 2020.",
+    "summary": "I am majoring in Computer Science (BS) and Geography (BA) as a second year student currently studying at the University of Hawaii at Manoa. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -48,16 +48,17 @@
       "keywords": [
       ]
     }
+      "name": "Art",
+      "keywords": [
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
+        "Java",
         "C",
         "C++",
-        "Java",
-        "Javascript",
       ]
     },
     {
