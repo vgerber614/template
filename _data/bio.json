@@ -62,9 +62,7 @@
         "Java",
         "C",
         "C++",
-      ]
-    },
-      {
+      ],
       "level": "Novice",
       "keywords": [
         "Javascript",
