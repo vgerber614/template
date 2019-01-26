@@ -59,12 +59,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java
+        "Java",
         "C/C++",
         "Python",
         "Javascript"
       ],
-    }
+    },
     {
       "name": "Toolsets/OS",
       "level": "",
