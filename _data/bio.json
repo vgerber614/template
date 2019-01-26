@@ -65,6 +65,7 @@
         "Python",
         "Javascript"
       ],
+    }
     {
       "name": "Toolsets/OS",
       "level": "",
@@ -91,62 +92,73 @@
       ]
     }
   ],
-  "work": [
+  /** "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "",
+      "position": "",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ], 
+  */
+  "volunteer": [
+    {
+      "organization": "Hawaii State Science Olympiad",
+      "website": "https://www.hsso.org/",
+      "position": "Event Supervisor",
+      "startDate": "2017",
+      "endDate": "Present",
+      "summary": "Supervise and coordinate middle and high school Science Olympiad events at state and invitational competitions.",
+      "highlights": [
+        "Coordinating, supervising, and judging Division B \"Game On\" programming event for April, 2019.",
+        "Coordinated, supervised, and judged Division C \"Write It Do It\" event at Mililani High School invationals (2017-2019).",
+        "Learned time managment and coordination skills."
+      ]
+    },
+    {
+      "organization": "Mililani High School STEM Camp",
+      "website": "http://www.hawaiipublicschools.org/VisionForSuccess/SuccessStories/Students/Pages/MililaniSTEMCamp.aspx",
+      "position": "Supervisor and Teacher",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "Exposed kids grades 3-5 to STEM activities such as programming in scratch and engineering paper rollercoasters in  week long, student run STEM Camp.",
+      "highlights": [
+        "Supervised and helped teach kids programming basics in Scratch and Hour Of Code (2015)",
+        "Coordinated and supervised rollercoaster engineering, sound waves, and treasure hunt activies (2016)",
+        "Learned valuable time management, communication, and teamwork skills"
+      ]
+    }
+    {
+      "organization": "Relay For Life of Mililani",
+      "website": "relayforlife.org",
+      "position": "Luminaria Chair and Video Production",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Fundraising event for the American Cancer society hosted at Mililani High School by student club members.",
+      "highlights": [
+        "Luminaria Chair (2015 - 2016) - Coordinated the luminaria ceremony in honor of those whose lives have been touched by cancer. Included advertising, selling, and displaying lanterns as well as creating commemoration slideshow.",
+        "Filmed and interviewed at the event to put together a recap/promotional video under a time crunch (2016)",
+        "Learned valuable time management, communication, and teamwork skills"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "National History Day (NHD) Finalist in Senior Group Documentary",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
