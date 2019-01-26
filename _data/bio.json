@@ -100,9 +100,41 @@
       "endDate": "Present",
       "summary": "Supervise and coordinate middle and high school Science Olympiad events at state and invitational competitions.",
       "highlights": [
-        "Coordinating, supervising, and judging Division B \"Game On\" programming event for April, 2019.",
+        "Coordinating, supervising, and judging Division B \"Game On\" programming event for stale level competition in April, 2019.",
         "Coordinated, supervised, and judged Division C \"Write It Do It\" event at Mililani High School invationals (2017-2019).",
         "Learned time managment and coordination skills.",
+      ]
+    },
+      "organization": "Mililani High School FIRST Robotics",
+      "website": "https://www.facebook.com/Mililani-High-School-FIRST-Robotics-105960099497904/",
+      "position": "Buisness and Graphics",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Helped promote team on a professional level mainly through promotional videos.",
+      "highlights": [
+        "Created weekly recap videos by edditing together pictures, videos, and interviews I had conducted and taken throughout the week.",
+        "Wrote and laid out monthly newletters updating sponsors and supporters on the club's activity throughout the year.",
+        "Made pitches to potential sponsors by talking to local businesses.",
+        "Helped design stickers, buttons, and tshirts.",
+        "Helped promote and carry out fundraisers i.e. Ice Cream salesat school carnival.",
+        "Communicated with other teams to gather information and promote our robot as a potential ally at the state competition",
+        "Chosen embassador to welcome Governor Ige at the state competition and provide him with a tour."
+      ]
+    },
+
+      "organization": "Mililani High School Science Club",
+      "website": "",
+      "position": "Member and Club Officer (2016-17)",
+      "startDate": "2013",
+      "endDate": "2017",
+      "summary": "Competed in Science Olympiad and hosted STEM learning camps.",
+      "highlights": [
+        "Secretary (2016-17).",
+        "Competed in various events including \"Write It Do It\", \"Astronomy\", \"Anatomy\", \"Expreimental Design\", and \"Bridge Building\".",
+        "Won various medals at various levels throughout my time as a member."
+        "Helped organized invitationals.",
+        "Fundraised at school carnival.",
+        "This club and the Science Olympiad competition is what catalyzed my interest in STEM by exposing me to a range of STEM subjects to explore."
       ]
     },
     {
@@ -134,17 +166,23 @@
   ],
   "awards": [
     {
-      "title": "National History Day (NHD) Finalist in Senior Group Documentary",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school.",
+      "title": "National Contest Senior Group Documentary Finalist",
+      "date": "2015",
+      "awarder": "National History Day Organization",
+      "summary": "Placed 12th out of over 120 entries at the national level competition for a documentary on the legacy of Andre Breton, a leader in the Surrealist art movement.",
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "title": "National Contest Senior Group Documentary Qualifier",
+      "date": "2016",
+      "awarder": "National History Day Organization",
+      "summary": "Competed at the national national level competition for a documentary on the explorations, encounters, and exchange of Pop Art."
+    },
+    {
+      "title": "Science Olympiad Medalist",
+      "date": "2013 - 2017",
+      "awarder": "Hawaii State Science Olympiad",
+      "summary": "Won various medals (1st to 3rd place) at various competition levels (invitationals to states) by competing in the Science Olympiad Competition throughout middle and highschool."
+    },
   ],
   "references": [
     {
