@@ -15,7 +15,7 @@ labels:
 summary: My partner and I made a documentary for National History Day and placed 12th out of over 120+ entries at the national level competition.
 ---
 
-<div class="ui small rounded images">
+<div class="ui small rounded images" align = "center">
   <img class="ui image" src="../images/nhd-leader-and-legacy.jpg">
 </div>
 
