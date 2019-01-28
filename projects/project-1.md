@@ -2,43 +2,30 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: National History Day Documentary: The Leadership and Legacy of Andre Breton
+permalink: projects/NHD-Documentary
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
   - Robotics
   - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: My partner and I made a documentary for National History Day and placed 12th out of over 120+ entries at the national level competition.
 ---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+National History Day is a nationally recognized competition in which over half a million middle and highschool students around the globe are share their knowledge of historical topics in the form of a paper, exhibit, performance, website, or documentary. Students are able to freely choose their topic in compliance with a theme. Each entry presented to and judged by a panel of scholars, followed by an interview. Those who place at the top in a series of regional events get to proceed to the National Contest in Washington D.C..
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+I have made it to the National Competition in the group documentary category twice throughout highschool. The first time was in 2015 for the theme "Leadership and Legacy." My partner and I submitted a documentary entitled "Andre Breton: The Leadership in the Surrealist Movement and His Legacy in the Art World". The documentary analyzes the involment of french poet and author, Andre Breton in the psychologically rooted art movement of the 1920's, surrealism, and examines the profound cultural, technological, and political legacy.
 
-Here is some code that illustrates how we read values from the line sensors:
+The documentary started out as a paper I had written by myself over as an A.P. World History summer break assignment. I decided to write about the surrealist art movement because of the interest I had in art and psychology. It was largely my interest and enthusiasm about the topic that helped me to write a strong paper.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+After writing, I found a partner who helped me revise and edit the paper into a script for a documentary. I was just dipping my feet into video editting and using "Final Cut Pro" at the time, and I knew that a documentary would be the best way to share such a visually involved topic. We also conducted interviews with scholars knowledgable in art history where I learned a lot about professional communication and interview processes. After weeks of filming, recording, and editting, we were finally able to share to various regional competitions and eventually the panel of judges seated at the national competition.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+I learned a lot from both my experiences with National History Day. The competition improved my writing, collaboration skills, public speaking, and professionalism. I was also able to feel what is like to really be put under pressure and effectively problem solve through unexpected obstacles. I'll always value what the National History Day process has taught me and will apply it to hopefully accomplish even bigger projects. 
 
-
+For more information on National History Day visit: [https://www.nhd.org/](https://www.nhd.org/)
 
