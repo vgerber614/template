@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/stem-camp.jpg
 title: Teaching at a STEM Learning Camp
 permalink: projects/stem-camp
 # All dates must be YYYY-MM-DD format!
@@ -14,25 +14,24 @@ labels:
 summary: I helped teach kids grades 3-5 how to write basic code in Scratch as well expose them to various science topcis to explore in a student run STEM camp over break.
 ---
 
-botics Club. I learned a lot about not only editting videos, but the behind the scene work behind the club and the roles of each team member.
+## A Student Run STEM Camp
+In high school, I was a member of the Science club as wel as the Robotics CLub. Together they hosted the Mililani STEM Camp, offered to kids grades 3-5. At the camp, kids worked with LEGO robotics, programming, and various science exploratory topics. I coordinated a few lesson plans, conducting activities such as building a paper rollercoaster, understanding sound waves, and using a compass and directions to find treasure. My favorite parts, however, was being able to expose kids to their first lines of code!
 
-## FIRST: For Inspiration and Recognition of Science and Technology - What is it?
 
-<div class="ui small rounded images" align="center">
-  <img align="center" width="500" src="../images/FIRSTRobotics_icon.jpg">
+## Introducing Code
+<div class="ui small rounded images" align="cleft">
+  <img align="left" width="100" src="../images/scratch-cat.jpg">
 </div>
 
-The FIRST Robotics Competition is an international competition where high school teams build robots to compete against and work with other teams in accomplishing tasks as part of the a robot game. Each year there is a themed competition with different tasks to earn points. Teams have a six week "build season" to ready a robot for competition.
+I've always wished I was exposed to programming at a younger age. I hadn't really been exposed to it until high school. I think anyone can learn to code, and these kids were no exception. They did a great job handling the challenges on [Hour Of Code](https://hourofcode.com/us) and by the end of the week long course, they were able to make their own fully functional games on [Scratch](https://scratch.mit.edu/)!
 
-## The Business and Graphics Subteam
+Scratch is free a block-based visual programming language, great for learning the basics of code. I remember making my own first lines of code here and going home at night making fun(ny) games and animated stories. It is a great way for people to see how fun programming can be and how simple it can be for anyone to pick up on.
 
-Many teams, including my high school's team, divide work into subteams. We had an electrical, mechanical, and business & graphics subteam. I was a part of the buisness & graphics subteam. We were in charge of promoting the team, gathering sponsors, and designing things like club shirts and buttons.
-
-As a member of the business & graphics subteam, I specialized in making weekly videos updating the groups progress within the build season. This was a way for sponsors and supporters to get updated, for other teams to see our robot, and for the group to reflect on what they have done. To make these videos, I filmed and photographed the team throughout the week then interviewed selected members for an interview. I then editted it all together into the recap video for that work.
+Considering these were kids from grades 3-5, there was definitely a lot of critical thinking they had to adapt to. I did everything I could to help break down problems and get them thinkng of creative solutions. They were being challenged; however, we were able to get them through it all and make pretty elaborate programs.
 
 ## What I Learned
 
-I learned valuable leadership skills such as coordinating lesson plans, communicating with other, and managing time. Most importantly, I got to further see the value of STEM education and it felt great to be able to share something I am passionate about to yo
+I learned valuable leadership skills such as coordinating lesson plans, communicating with other, and managing time. Most importantly, I got to further see the value of STEM education and it felt great to be able to share something I am passionate about to young curious minds. Being able to help run this STEM camp and expose kids to things like programming, the language of our future, was a proud moment for me because I knew I was making a real difference and can continue to make a difference.
 
 The Hawaii Department of Education wrote about the camp in [this article](www.hawaiipublicschools.org/VisionForSuccess/SuccessStories/Students/Pages/MililaniSTEMCamp.aspx
 )!
