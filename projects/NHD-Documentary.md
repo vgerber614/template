@@ -22,7 +22,7 @@ summary: My partner and I made a documentary for National History Day and placed
 National History Day is a nationally recognized competition in which over half a million middle and highschool students around the globe are share their knowledge of historical topics in the form of a paper, exhibit, performance, website, or documentary. Students are able to freely choose their topic in compliance with a theme. Each entry presented to and judged by a panel of scholars, followed by an interview. Those who place at the top in a series of regional events get to proceed to the National Contest in Washington D.C..
 
 <div class="ui small rounded images">
-  <img align="center" width="475" src="../images/persistence-of-memories.jpg">
+  <img align="center" width="470" src="../images/persistence-of-memories.jpg">
   <img align = "center" width="250" src="../images/son-of-man.jpg">
 </div>
 
