@@ -42,6 +42,4 @@ After writing, I found a partner who helped me revise and edit the paper into a 
 
 I learned a lot from both my experiences with National History Day. The competition improved my writing, collaboration skills, public speaking, and professionalism. I was also able to feel what is like to really be put under pressure and effectively problem solve through unexpected obstacles. I'll always value what the National History Day process has taught me and will apply it to hopefully accomplish even bigger projects. 
 
-
-
 For more information on National History Day visit: [https://www.nhd.org/](https://www.nhd.org/)
