@@ -20,7 +20,7 @@ In high school, I was a member of the Science club as wel as the Robotics CLub. 
 
 ## Introducing Code
 <div class="ui small rounded images" align="cleft">
-  <img align="left" width="100" src="../images/scratch-cat.jpg">
+  <img align="left" width="200" src="../images/scratch-cat.jpg">
 </div>
 
 I've always wished I was exposed to programming at a younger age. I hadn't really been exposed to it until high school. I think anyone can learn to code, and these kids were no exception. They did a great job handling the challenges on [Hour Of Code](https://hourofcode.com/us) and by the end of the week long course, they were able to make their own fully functional games on [Scratch](https://scratch.mit.edu/)!
