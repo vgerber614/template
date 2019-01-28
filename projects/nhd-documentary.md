@@ -26,8 +26,8 @@ National History Day is a nationally recognized competition in which over half a
 ## A Surreal Documentary
 
 <div class="ui small rounded images" align="center">
-  <img align="center" width="470" src="../images/persistence-of-memories.jpg">
-  <img align = "center" width="251" src="../images/son-of-man.jpg">
+  <img align="center" height="500" src="../images/persistence-of-memories.jpg">
+  <img align = "center" height="500" src="../images/son-of-man.jpg">
 </div>
 
 I have made it to the National Competition in the group documentary category twice throughout highschool. The first time was in 2015 for the theme "Leadership and Legacy." My partner and I submitted a documentary entitled "Andre Breton: The Leadership in the Surrealist Movement and His Legacy in the Art World". The documentary analyzes the involment of french poet and author, Andre Breton in the psychologically rooted art movement of the 1920's, surrealism, and examines the profound cultural, technological, and political legacy.
