@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/nhd_logo.jpg
-title: National History Day Documentary: The Leadership and Legacy of Andre Breton
+title: National History Day Documentary
 permalink: projects/nhd-documentary
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-26
