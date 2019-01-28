@@ -18,7 +18,7 @@ summary: I helped teach kids grades 3-5 how to write basic code in Scratch as we
 In high school, I was a member of the Science club as wel as the Robotics CLub. Together they hosted the Mililani STEM Camp, offered to kids grades 3-5. At the camp, kids worked with LEGO robotics, programming, and various science exploratory topics. I coordinated a few lesson plans, conducting activities such as building a paper rollercoaster, understanding sound waves, and using a compass and directions to find treasure. My favorite parts, however, was being able to expose kids to their first lines of code!
 
 
-## Introducing Code
+## Hello World!
 <div class="ui small rounded images" align="cleft">
   <img align="left" width="200" src="../images/scratch-cat.jpg">
 </div>
