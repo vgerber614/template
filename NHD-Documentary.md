@@ -1,23 +1,30 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/nhd_logo.jpg
 title: National History Day Documentary: The Leadership and Legacy of Andre Breton
 permalink: projects/NHD-Documentary
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-01-27
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Art
+  - History
+  - Documentary
+  - Film
+  - School
 summary: My partner and I made a documentary for National History Day and placed 12th out of over 120+ entries at the national level competition.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/nhd-leader-and-legacy.jpg">
 </div>
 
 National History Day is a nationally recognized competition in which over half a million middle and highschool students around the globe are share their knowledge of historical topics in the form of a paper, exhibit, performance, website, or documentary. Students are able to freely choose their topic in compliance with a theme. Each entry presented to and judged by a panel of scholars, followed by an interview. Those who place at the top in a series of regional events get to proceed to the National Contest in Washington D.C..
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/persistence-of-memories.jpg">
+  <img class="ui image" src="../images/son-of-man.jpg ">
+</div>
 
 I have made it to the National Competition in the group documentary category twice throughout highschool. The first time was in 2015 for the theme "Leadership and Legacy." My partner and I submitted a documentary entitled "Andre Breton: The Leadership in the Surrealist Movement and His Legacy in the Art World". The documentary analyzes the involment of french poet and author, Andre Breton in the psychologically rooted art movement of the 1920's, surrealism, and examines the profound cultural, technological, and political legacy.
 
