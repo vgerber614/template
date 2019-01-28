@@ -21,9 +21,9 @@ summary: My partner and I made a documentary for National History Day and placed
 
 National History Day is a nationally recognized competition in which over half a million middle and highschool students around the globe are share their knowledge of historical topics in the form of a paper, exhibit, performance, website, or documentary. Students are able to freely choose their topic in compliance with a theme. Each entry presented to and judged by a panel of scholars, followed by an interview. Those who place at the top in a series of regional events get to proceed to the National Contest in Washington D.C..
 
-<div class="ui small rounded images" width = "50">
-  <img class="ui image" src="../images/persistence-of-memories.jpg" align = "left">
-  <img class="ui image" src="../images/son-of-man.jpg" align = "right">
+<div class="ui small rounded images">
+  <img align="left" width="100" src="../images/persistence-of-memories.jpg">
+  <img align = "right" width="100" src="../images/son-of-man.jpg">
 </div>
 
 I have made it to the National Competition in the group documentary category twice throughout highschool. The first time was in 2015 for the theme "Leadership and Legacy." My partner and I submitted a documentary entitled "Andre Breton: The Leadership in the Surrealist Movement and His Legacy in the Art World". The documentary analyzes the involment of french poet and author, Andre Breton in the psychologically rooted art movement of the 1920's, surrealism, and examines the profound cultural, technological, and political legacy.
