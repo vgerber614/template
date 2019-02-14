@@ -7,9 +7,10 @@ date: 2019-02-13
 labels:
   - Coding Standards 
   - ESLint
+  - Javascript
   - HTML
   - CSS
-  - Learning
+  - Programming
 ---
 
 <img src="../images/code_quality_comic.png">
