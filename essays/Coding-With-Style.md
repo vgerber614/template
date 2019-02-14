@@ -12,7 +12,7 @@ labels:
   - Learning
 ---
 
-<img align="center" src="../images/code_quality_comic.png">
+<img float="center" src="../images/code_quality_comic.png">
 
 ## The Standard.
 When I started making my very first lines of code, I often typed without any real organization or convention to it. I figured theres many ways to get to Rome- and my code gets to Rome, so what could be wrong. However, I learned very quickly why this was a bad practice. I would often find myself just getting lost in my code and when I would ask for help from peers, they would get lost, too. This is because the readability of your code drastically declines when you don't have a set of conventional guidelines. It is like wr i t in g wit hou T prop r spAc i n g a nd Capi t aL iz a tion . Although you can properly string together the proper sequence of characters to spell out words, a sentence is not readable without our grammatical conventions. Similarly, although the code youve typed out may execute successfully, it is not readable without a set of coding conventions. This is why we have a coding standard. A coding standard is a set guideline of conventions for your code, to improve oraganization, cleanliness, and readibility. It is essential to use coding standards to create sophisticated, readable code.
