@@ -13,7 +13,7 @@ labels:
 
 ## Coding Raw
 
-<img  align="center" src="../images/semantic-ui-homepage.jpg">
+<img  align="center" src="../images/semantic-ui-homepage.png">
 
 Prior to last week, we have been programming in HTML and CSS raw. My first impressions looking at a raw HTML file is how unintuitive it feels. It barely felt like english, even for a programming language. However, this week, we were introduce to a refreshing user interface framework, "Semantic UI".
 
