@@ -11,7 +11,9 @@ labels:
   - Web Design
 ---
 
-<img  class="centered image" src="../images/semantic-ui-homepage.png" width=500px>
+<p class="aligncenter">
+    <img src="../images/semantic-ui-homepage.png" alt="centered image" />
+</p>
 
 ## Coding Raw
 
