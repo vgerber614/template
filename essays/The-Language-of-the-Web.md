@@ -11,7 +11,7 @@ labels:
   - Web Design
 ---
 
-<img  align="center" src="../images/semantic-ui-homepage.png" width=250px>
+<img  align="middle" src="../images/semantic-ui-homepage.png" width=500px>
 
 ## Coding Raw
 
