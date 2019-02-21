@@ -12,7 +12,7 @@ labels:
 ---
 
 <p class="aligncenter">
-    <img src="../images/semantic-ui-homepage.png" alt="centered image" />
+    <img src="../images/semantic-ui-homepage.png" width=100px alt="centered image" />
 </p>
 
 ## Coding Raw
