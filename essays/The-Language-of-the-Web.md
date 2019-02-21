@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding In English
+title: "The Language of the Web"
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-20
 labels:
@@ -17,9 +17,9 @@ labels:
 
 Prior to last week, we have been programming in HTML and CSS raw. My first impressions looking at a raw HTML file is how unintuitive it feels. It barely felt like english, even for a programming language. However, this week, we were introduce to a refreshing user interface framework, "Semantic UI".
 
-## The Semantics of Semantic UI
+## The English Semantics of Semantic UI
 
-Semantic UI was a breath of fresh air because it uses the our English language to set up attractive UI elements. This is much more convenient and intuitive than coding in raw HTML. I also like how the design of its features are clean and actually appealing even in default. The default HTML elements are absolutely hideous from a design standpoint. It looks flat, outdated, and cluttered. Take this button for example. I think its actually very important that the visual design of a web page is clean and appealing because it attracts your audience to actually read what you have to say. Also, there is a rhetorical value in visuals and it plays a huge part in human communication.
+Semantic UI was a breath of fresh air because it uses the our English language to set up attractive UI elements. This is much more convenient and intuitive than coding in raw HTML. I also like how the design of its features are clean and actually appealing even in default. The default HTML elements are absolutely hideous from a design standpoint. It looks flat, outdated, and cluttered. Take this button for example. I think its actually very important that the visual design of a web page is clean and appealing because it attracts your audience to actually read what you have to say. Also, there is a rhetorical value in visuals and it plays a huge part in human communication. It is no wonder the Semantic UI Webpage claims UI is "The Language of the Web"
 
 ## The Antics of Learning Semantics
 
