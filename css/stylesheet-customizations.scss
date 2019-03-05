@@ -18,10 +18,16 @@ body {
   background-size: cover;
 }
 
+.bio {
+  background: linear-gradient(to bottom, #99ccff 0%, #99ffcc 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 // Customize the menubar color
 .ui.menu {
   // background: $background-start;
-  background: #aabbe2;
+  background: #6699ff;
 }
 
 // Customize the home page icon colors
