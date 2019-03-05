@@ -62,7 +62,8 @@
         "Java",
         "C/C++",
         "Python",
-        "Javascript"
+        "Javascript",
+        "HTML/CSS",
       ],
     },
     {
@@ -71,6 +72,7 @@
       "keywords": [
         "MacOS",
         "Windows 10",
+        "Github",
       ]
     }
   ],
