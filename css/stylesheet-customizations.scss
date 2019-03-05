@@ -6,7 +6,7 @@
 // Here are some common customizations for colors
 
 // Customize the background color
-body, html {
+html {
   height: 100%;
 }
 
@@ -15,6 +15,7 @@ body {
   //background-color: #E8E8E8;
   background: linear-gradient(to bottom, #99ccff 0%, #99ffcc 100%);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 // Customize the menubar color
