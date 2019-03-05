@@ -32,7 +32,15 @@ body {
 // Customize the menubar color
 .ui.menu {
   // background: $background-start;
-  background: #33cccc;
+  background: #586269;
+}
+
+a.item {
+  color: white;
+}
+
+a.active.item {
+  color: whitesmoke;
 }
 
 // Customize the home page icon colors
