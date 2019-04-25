@@ -9,7 +9,7 @@ labels:
 ---
 
 <p class="aligncenter">
-  <img src="../images/worksmarter_notharder.png">
+  <img src="../images/worksmarter_notharder.PNG">
 </p>
 
 ## No Calculators Allowed!
