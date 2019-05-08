@@ -40,5 +40,7 @@ The user profile page allows users to add/edit their courses and edit their prof
 Through this project, I felt like I was able to really hone my software development skills and adopt new ones as I was constantly trying to program things outside of my comfort zone. I was also able to better my teamwork and communication skills. As a group we made time to regularly meet up and update eachother on our tasks and progress. We found ourselves with huge schedule conflicts but managed to make time both in person and through voice calls. I also got to learn a lot about how the features on GitHub can help make sure the collaborative process is well communicated and up to date. Overall, I think my group communicated and worked really well together, enabling us to make a really cool first big web application.
 
 Visit [The Waggle Information Page](https://thehivemanoa.github.io/waggle/)!
+
 Visit [The Hive Manoa Information Page](https://thehivemanoa.github.io/)!
+
 Visit [Our Github Repositories](https://github.com/thehivemanoa)!
