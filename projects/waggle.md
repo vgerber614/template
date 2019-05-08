@@ -12,17 +12,27 @@ labels:
 summary: I helped make a web application for students to collect "honey" by joining and creating course related study sessions.
 ---
 
-## Waggle What!?
 <div class="ui fluid images">
   <img class="ui image" src="../images/m3_landing1.png">
   <img class="ui image" src="../images/m3_landing2.png">
 </div>
+
+## Waggle What!?
 The term "Waggle" refers to dance that honey bees perform to help find food. My group, "The Hive Manoa", came up with a web application called "Waggle". In this web application, UH Manoa students act as bees working to collect as much honey as they can. They earn this honey by joining and creating course related study sessions. Those who collect the most honey can see their names at the top of the leaderboard!
 
 ## How I Role
 For this project I was mainly in charge of putting together the landing registration, user homepage, and the user profile page. This meant closely working with Meteor's Accounts API and our created Profiles API. 
 
-The user homepage lets users see upcoming and completed joined sessions. The user profile page allows users to add/edit their courses and edit their profile/account information. The user profile page also displays all the users information in a profile card.
+The user homepage lets users see upcoming and completed joined sessions. 
+<div class="ui fluid images">
+  <img class="ui image" src="../images/m3_userhomepage.PNG">
+</div>
+
+The user profile page allows users to add/edit their courses and edit their profile/account information. The user profile page also displays all the users information in a profile card.
+<div class="ui fluid images">
+  <img class="ui image" src="../images/m3_profilecourses.PNG">
+  <img class="ui image" src="../images/m3_profileedit.PNG">
+</div>
 
 
 ## What I Learned
