@@ -6,13 +6,13 @@
     "email": "vgerber@hawaii.edu",
     "phone": "",
     "website": "https://vgerber614.github.io",
-    "summary": "I am majoring in Computer Science (BS) and Geography (BA) as a second year student currently studying at the University of Hawaii at Manoa. I expect to graduate in Fall, 2020.",
+    "summary": "Currently an undergraduate student pursuing a Bachelor of Science (B.S.) degree in Computer Science at The University of Texas at San Antonio.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Honolulu",
+      "city": "San Antonio",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Texas"
     },
     "profiles": [
       {
@@ -27,8 +27,8 @@
       },
       {
         "network": "email",
-        "username": "vgerber@hawaii.edu",
-        "url": ""
+        "username": "vancgerber@gmail.com",
+        "url": "mailto:vancgerber@gmail.com"
       }
     ]
   },
@@ -39,12 +39,12 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "Geographic Information System",
+      "name": "Music",
       "keywords": [
       ]
     },
@@ -59,9 +59,10 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java",
         "C/C++",
+        "Java",
         "Python",
+        "BASH",
         "Javascript",
         "HTML/CSS",
       ],
@@ -72,37 +73,63 @@
       "keywords": [
         "MacOS",
         "Windows 10",
+        "Unix",
         "Github",
       ]
     }
   ],
   "education": [
+        {
+      "institution": "University of Texas, San Antonio, TX",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2020",
+      "endDate": "Preseny",
+      "gpa": "3.70",
+      "courses": [
+        "Math Foundations of CS",
+        "Data Structures",
+        "Systems Programming (Current)",
+      ]
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2020)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2017",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2019",
+      "gpa": "3.68",
       "courses": [
         "ICS Intros I and II (Java)",
         "Scripting for C/C++",
         "Algorithms",
         "Discrete Mathematics",
-        "Software Engineering (Current)",
+        "Software Engineering",
       ]
     }
   ],
   "volunteer": [
     {
+      "organization": "The Association for Computing Machiner at UTSA",
+      "website": "https://www.acm-utsa.org/",
+      "position": "Member",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Attended meetings and activities to further familiarize with and learn about the tech and computing field": [
+        "Engage in various computing activities.",
+        "Network with others in the computing field.",
+        "Learn from industry professionals.",
+      ]
+    },
+    {
       "organization": "Hawaii State Science Olympiad",
       "website": "https://www.hsso.org/",
       "position": "Event Supervisor",
       "startDate": "2017",
-      "endDate": "Present",
+      "endDate": "2019",
       "summary": "Supervise and coordinate middle and high school Science Olympiad events at state and invitational competitions.",
       "highlights": [
-        "Coordinating, supervising, and judging Division B \"Game On\" programming event for stale level competition in April, 2019.",
+        "Coordinating, supervising, and judging Division B \"Game On\" programming event for stale level competition (2019).",
         "Coordinated, supervised, and judged Division C \"Write It Do It\" event at Mililani High School invationals (2017-2019).",
         "Learned time managment and coordination skills.",
       ]
@@ -117,9 +144,9 @@
       "highlights": [
         "Created weekly recap videos by edditing together pictures, videos, and interviews I had conducted and taken throughout the week.",
         "Wrote and laid out monthly newletters updating sponsors and supporters on the club's activity throughout the year.",
-        "Made pitches to potential sponsors by talking to local businesses.",
+        "Made pitches to potential sponsors / local businesses.",
         "Helped design stickers, buttons, and tshirts.",
-        "Helped promote and carry out fundraisers i.e. Ice Cream sales at school carnival.",
+        "Helped promote and carry out fundraisers.",
         "Communicated with other teams to gather information and promote our robot as a potential ally at the state competition",
         "Chosen embassador to welcome Governor Ige at the state competition and provide him with a tour."
       ]
