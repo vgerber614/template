@@ -79,7 +79,7 @@
     }
   ],
   "education": [
-        {
+    {
       "institution": "University of Texas, San Antonio, TX",
       "area": "Computer Science",
       "studyType": "B.S.",
@@ -115,7 +115,8 @@
       "position": "Member",
       "startDate": "2020",
       "endDate": "Present",
-      "summary": "Attended meetings and activities to further familiarize with and learn about the tech and computing field": [
+      "summary": "Attended meetings and activities to further familiarize with and learn about the tech and computing field",
+      "highlights": [
         "Engage in various computing activities.",
         "Network with others in the computing field.",
         "Learn from industry professionals.",
@@ -192,7 +193,7 @@
         "Filmed and interviewed at the event to put together a recap/promotional video under a time crunch (2016)",
         "Learned valuable time management, communication, and teamwork skills",
       ]
-    },
+    }
   ],
   "awards": [
     {
